@@ -1,0 +1,58 @@
+2015-08-29 20:03:01,184 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\pom.xml
+2015-08-29 20:03:07,609 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_CSV_File:1.1 @ C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\pom.xml.
+2015-08-29 20:03:09,148 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TV_CSV_File/src/main/java
+2015-08-29 20:03:09,889 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TV_CSV_File/src/test/java
+2015-08-29 20:03:11,536 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2015-08-29 20:03:12,816 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:03:12,818 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:03:12,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:03:12,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:05:37,219 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_CSV_File:1.1 @ C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\pom.xml.
+2015-08-29 20:05:41,517 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:05:41,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:05:41,525 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:05:41,525 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:05:45,032 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:05:45,032 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:05:45,036 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:05:45,036 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:07:36,736 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:07:36,736 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:07:36,741 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:07:36,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:08:23,753 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:08:23,754 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:08:23,759 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:08:23,759 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:08:24,905 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:08:24,906 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:08:24,910 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:08:24,910 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:09:15,782 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:09:15,783 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:09:15,787 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:09:15,788 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:09:53,945 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Bel\Java\Java_HW_36\TV_CSV_File
+2015-08-29 20:09:53,946 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-08-29 20:10:05,593 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:10:05,593 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\main\resources
+2015-08-29 20:10:05,597 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:10:05,597 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:22:42,920 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_CSV_File:1.1 @ C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\pom.xml.
+2015-08-29 20:22:45,140 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:22:45,144 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-29 20:22:45,149 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:22:45,149 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:23:09,232 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_CSV_File:2.1 @ C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\pom.xml.
+2015-08-29 20:23:11,749 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:23:11,753 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-29 20:23:11,760 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:23:11,760 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:26:11,397 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:26:11,410 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-29 20:26:11,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:26:11,426 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
+2015-08-29 20:27:42,473 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:27:42,475 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-29 20:27:42,479 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-29 20:27:42,480 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Java_HW_36\TV_CSV_File\src\test\resources
